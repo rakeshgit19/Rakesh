@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="27036" started-at="2021-06-30T14:41:01Z" finished-at="2021-06-30T14:41:28Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="27036" started-at="2021-06-30T14:41:01Z" finished-at="2021-06-30T14:41:28Z">
+      <class name="Test.Jenkins">
+        <test-method status="PASS" signature="lunch()[pri:0, instance:Test.Jenkins@26ba2a48]" name="lunch" is-config="true" duration-ms="13014" started-at="2021-06-30T20:11:01Z" finished-at="2021-06-30T20:11:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lunch -->
+        <test-method status="PASS" signature="login()[pri:0, instance:Test.Jenkins@26ba2a48]" name="login" duration-ms="11499" started-at="2021-06-30T20:11:14Z" finished-at="2021-06-30T20:11:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:Test.Jenkins@26ba2a48]" name="logout" is-config="true" duration-ms="2499" started-at="2021-06-30T20:11:25Z" finished-at="2021-06-30T20:11:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- Test.Jenkins -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
